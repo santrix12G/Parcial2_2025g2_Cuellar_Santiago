@@ -149,7 +149,7 @@ body {
 }
 
 @media (max-width: 576px) {
-    .hero {
+    .hero-index{
         display: flex;
         justify-content: flex-end;
         align-items: flex-end;
